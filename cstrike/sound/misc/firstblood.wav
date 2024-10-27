@@ -1,0 +1,48 @@
+<html>
+<body>
+
+<table width=600>
+<tr>
+<td><img src="/home_series.png"></td>
+<td>
+<!-- left column start -->
+
+<table width=400>
+
+<!-- MESSAGE -->
+<tr>
+	<td bgcolor="#efefef">
+	<center>
+		<font color="#ff0000">
+		<h1>404</h1>
+	</center>
+	</td>
+	<td>
+	<center>
+		<font color="#000000">
+		<h3>File does not exist</h3>
+	</center>
+	</td>
+</tr>
+
+<!-- DESCRIPTION -->
+<tr>
+	<td colspan=2>
+		<font color="#333333" size=2>
+		This is just example, and home web server won't use this 
+		if the file is missing; it uses internal messages instead. 
+		However it's always nice to have decent pages when something
+		unexpected happens on your server, and actually for example
+		page being not found happens quite often.
+	</td>
+</tr>
+
+</table>
+
+<!-- left column end -->
+</td>
+</tr>
+</table>
+
+</body>
+</html>
