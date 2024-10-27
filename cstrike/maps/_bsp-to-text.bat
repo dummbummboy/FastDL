@@ -5,7 +5,7 @@ rem Pfad zum Speicherort der Batch-Datei
 set "folder_path=%~dp0"
 
 rem Textdatei, in die die Dateinamen geschrieben werden
-set "output_file=%folder_path%bsp_files.txt"
+set "output_file=%folder_path%_bsp_files.txt"
 
 rem Löscht die Textdatei, falls sie bereits existiert, um Dopplungen zu vermeiden
 if exist "%output_file%" del "%output_file%"
