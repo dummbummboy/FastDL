@@ -1,0 +1,14 @@
+// overview description file for de_invictus_v12.bsp
+
+global 
+{
+	ZOOM	1.29
+	ORIGIN	260.00  1216.00  96.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_invictus_v12.bmp"
+	HEIGHT	-321.00
+}

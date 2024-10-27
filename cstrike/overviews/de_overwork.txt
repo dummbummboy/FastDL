@@ -1,0 +1,14 @@
+// overview description file for de_overwork.bsp
+
+global 
+{
+	ZOOM	1.39
+	ORIGIN	-528 	-224	-248
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_overwork.bmp"
+	HEIGHT	-814
+}

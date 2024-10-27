@@ -1,0 +1,11 @@
+global
+{
+ZOOM 1.13
+ORIGIN 0.00 0.00 -1761.00
+ROTATED 1
+}
+layer
+{
+IMAGE "overviews/jb_oasis.bmp"
+HEIGHT -1761.00
+}

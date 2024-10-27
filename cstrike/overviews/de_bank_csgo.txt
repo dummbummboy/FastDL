@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.51
+	ORIGIN	295.97 	-419.33	292.50 
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_bank_csgo.bmp"
+	HEIGHT	-52
+}

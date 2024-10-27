@@ -1,0 +1,14 @@
+// overview description file for de_escalation.bsp
+
+global 
+{
+	ZOOM	1.78
+	ORIGIN	-832 	96	-417
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_escalation.bmp"
+	HEIGHT	-417
+}

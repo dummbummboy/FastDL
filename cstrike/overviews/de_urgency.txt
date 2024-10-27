@@ -1,0 +1,14 @@
+// overview description file for de_urgency.bsp
+
+global 
+{
+	ZOOM	1.40
+	ORIGIN	-402.50 	40.00	475.50
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_urgency.bmp"
+	HEIGHT	-58.00
+}

@@ -1,0 +1,15 @@
+//Overview: Zoom 2.14, Map Origin (-241.25, -607.38, 275.50), Z Min 913.00, Z Max -362.00, Rotated 0
+
+//overview description file for cs_foodmarket_b3
+
+global
+{
+	ZOOM	2.14
+	ORIGIN	-241.25	-607.38	275.50
+	ROTATED 0
+}
+layer
+{
+	IMAGE "overviews/cs_foodmarket_b3.bmp"
+	HEIGHT -361.00
+}

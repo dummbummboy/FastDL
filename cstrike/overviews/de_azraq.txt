@@ -1,0 +1,15 @@
+// overview for de_azraq 
+// gamebanana.com Operation Blackout Jam
+
+global 
+{
+	ZOOM	1.57
+	ORIGIN	-768	1045	-176
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_azraq.bmp"
+	HEIGHT	-176
+}

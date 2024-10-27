@@ -1,0 +1,17 @@
+Onyx - Bomb/Defuse
+Map by Caleb (heimdall@interia.pl)
+www.caleb.republika.pl
+
+Textures from... many wads
+
+Counter-Terrorists:   Prevent Terrorists
+from bombing the house. Team members must 
+defuse any bombs that threaten the building.
+
+Terrorists:   The Terrorist carrying the
+C4 must destroy one of the rooms.
+
+Other Notes:   There are 2 bomb sites in 
+this mission. 
+
+(Press FIRE to continue)

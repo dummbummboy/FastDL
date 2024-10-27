@@ -1,0 +1,10 @@
+Escalation - Bomb Defuse
+    Funded by an unknown association, a group of extremists planned a full-scale attack on this European city.
+
+Terrorists: Let us cast the first stone. War is imminent!
+
+Counter-Terrorists: This is a threat of war, and their target will be the whole Europe! It cannot happen here!
+
+Map by HLXX50
+Textures, sound, models and sprites were taken from de_downtown, originally created by Dr.DK and Backslider. Thank you for your great work!
+///////////////////////////////////////////////////////////////////////////////////

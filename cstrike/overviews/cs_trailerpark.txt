@@ -1,0 +1,14 @@
+// overview description file for cs_trailerpark.bsp
+
+global 
+{
+	ZOOM	1.34
+	ORIGIN	-208	-96	152
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_trailerpark.tga"
+	HEIGHT	-200
+}

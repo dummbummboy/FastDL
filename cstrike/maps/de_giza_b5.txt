@@ -1,0 +1,21 @@
+▬▬▬▬▬▬▬▬▬▬▬▬MAIN INFO▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Map				: de_giza_b5
+Origin map		: de_alexandra
+Author			: xZenon 
+
+▬▬▬▬▬▬▬▬▬▬▬▬CONTACTS▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Steam			: Steamcommunity.com/id/xZenon
+VK				: Vk.com/xZenon
+Official Site	: xZenon.com
+
+▬▬▬▬▬▬▬▬▬▬▬▬RESOURCES▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Textures		: N/A / xZenon
+Models			: Valve	/ Others
+Sounds			: Others / Valve
+Sprites			: DimeX
+
+▬▬▬▬▬▬▬▬▬▬▬▬NOTICE▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+If you are the author of any resource used in this map, 
+or if you know who the author is and was not included in the list of authors, 
+do not hesitate to contact me and I will gladly include you or the author 
+who was not mentioned above;)

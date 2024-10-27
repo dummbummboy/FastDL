@@ -1,0 +1,24 @@
+Trailerpark - Hostage Rescue
+by Cmdr
+
+Original Mapdesign by Chris Auty
+
+Textures by Cmdr, Running with Scissors, textures.com
+Music by Michael Ramir C
+Sounds by freesound.org
+
+This map is a complete recreation of the cutted
+official CS:CZ map cs_trailerpark made by Chris Auty.
+The creation of this remake is based on leaked
+screenshots of the original map.
+
+Counter-Terrorists: Enter the old 
+trailerpark to rescue the hostages.
+Take out the Terrorists without jeopardizing 
+the hostages.
+
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages.
+
+Other Notes: There are 4 hostages in 
+the mission.

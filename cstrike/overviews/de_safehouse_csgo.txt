@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.39
+	ORIGIN	-439.06 -200.25	434.50 
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_safehouse_csgo.bmp"
+	HEIGHT	-52
+}

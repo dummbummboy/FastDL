@@ -1,0 +1,35 @@
+//For material sounds add the following lines into sound/materials.txt:
+
+//------------------------------------------------------------
+// cs_trailerpark
+//------------------------------------------------------------
+D p2_gravel
+D p2_dirt_smooth
+D p2_dirt_lumpy
+D p2_dirt_waste
+D p2_grass
+W tp_woodfloor
+W tp_woodplate2
+W tp_woodfence
+W tp_woodfence3
+W p2_woodcrate1
+T tp_tilefloor1
+T tp_tilefloor1a
+T tp_tilefloor2
+T tp_tilefloor2a
+M {misc_grate
+M {tp_guardrail
+M tp_car1t
+M tp_car1f
+M tp_car1b
+M tp_car2t
+Y tp_car2b
+Y tp_car2f2
+M tp_car2f3
+Y tp_car3b2
+Y tp_car3f2
+M tp_car3f3
+M tp_car3t
+M p2_ccar_top
+M p2_ccar_white
+Y p2_ccar_window

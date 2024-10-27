@@ -1,0 +1,6 @@
+﻿Bank - Defuse bomb
+
+Counter-Terrorists: Prevent Terrorists from bombing the safe. Team members must defuse any bombs that threaten targeted area.
+
+Terrorists: The Terrorist carrying the C4 must destroy the safe.
+

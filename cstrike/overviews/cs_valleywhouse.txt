@@ -1,0 +1,14 @@
+// Overview description file for cs_valleywhouse.bsp
+
+global 
+{
+	ZOOM	1.75
+	ORIGIN	65.50	-723.09	-161.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_valleywhouse.bmp"
+	HEIGHT	-161.00
+}

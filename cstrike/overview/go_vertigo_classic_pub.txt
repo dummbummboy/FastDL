@@ -1,0 +1,14 @@
+// overview description file for go_vertigo_classic_pub.bsp
+
+global 
+{
+	ZOOM	1.71
+	ORIGIN	640 	    -768	   800
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/go_vertigo_classic_pub.bmp"
+	HEIGHT	-705
+}
