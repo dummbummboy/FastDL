@@ -1,0 +1,14 @@
+// overview description file for de_kd.bsp
+//made by FNFAL www.fnfal.ucoz.ru
+global 
+{
+	ZOOM	2.16
+	ORIGIN	-63.73	-143.85	289
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_kd.bmp"
+	HEIGHT	-32
+}

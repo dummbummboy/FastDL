@@ -1,0 +1,14 @@
+// overview description file for aim_ak-colt_pool.bsp
+
+global 
+{
+	ZOOM	3.46
+	ORIGIN	0.00  0.00  316.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_ak-colt_pool.tga"
+	HEIGHT	-316.00
+}

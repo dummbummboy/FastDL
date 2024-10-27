@@ -1,0 +1,14 @@
+// overview description file for de_pandemonium.bsp
+
+global 
+{
+	ZOOM	1.4
+	ORIGIN	-1296 	256	-352
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_pandemonium.bmp"
+	HEIGHT	-352
+}

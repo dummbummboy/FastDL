@@ -1,0 +1,16 @@
+CBF - Bomb/Defuse
+by Max Flynt (maximum-flynt@yandex.ru)
+idea by MAXYMUS
+textures by Macman (MacManInfi@aol.com)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing chemical weapon crates.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the chemical 
+weapon stashes. 
+
+Other Notes: There is 1 bomb site in
+this mission. 
+
+(Press FIRE to continue)

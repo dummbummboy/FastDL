@@ -1,0 +1,21 @@
+DE_DEADLOCK
+
+By the makers of DE_SURVIVOR (3D_MIKE) and CS_BOXOFFICE (BACKSLIDER)
+Props to MAWIBSE, the func_master
+
+A terrorist group learned of a shipment of gold in transport by armored car. The terrorists ambushed
+ the armored car drivers killing them in a shootout. Unfortunately for the terrorists, while assaulting
+ the drivers, they locked the keys to the armored car inside the car vault. The armored car sits abandoned
+ awaiting backup terrorist members to finish the job. The armored delivery’s late arrival caused panic and
+ the counter forces are closing in and have established roadblocks.
+
+Your mission as a terrorist: Plant C4 on the armored car to crack the cars vault. A getaway car is on standby
+ to retrieve the loot.  If this mission fails, escape by planting the C4 at the roadblock and clear a path for
+ the getaway car.
+
+Your mission as a counter terrorist: Defend roadblock at all costs. The terrorist may try anything possible to
+ escape, be aware. In addition, locate disabled armored vehicle, shoot to kill, do not harm civilians in the
+ process.
+
+Your mission begins now, (Press any key to continue)
+

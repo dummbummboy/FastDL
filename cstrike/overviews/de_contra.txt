@@ -1,0 +1,14 @@
+// overview description file for de_contra.bsp
+
+global 
+{
+	ZOOM	1.71
+	ORIGIN	46.7 	-385.5	-132.0
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_contra.bmp"
+	HEIGHT	-616
+}

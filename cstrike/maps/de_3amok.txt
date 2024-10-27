@@ -1,0 +1,14 @@
+3AMOK-  Bomb/Defuse
+by Ermolovich Dmitry(Diman_007) (diman_007_1@mail.ru)
+
+
+Counter-Terrorists: Prevent Terrorists
+from bombing  crates.
+Team members must defuse any bombs
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the crates.
+
+ 
+Other Notes: Made in Russia with love:)

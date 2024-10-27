@@ -1,0 +1,15 @@
+de_botanica_street  
+
+   version FINAL! / 30.03.2010
+---
+   version 0.1 / 29.03.2010
+
+my first map for CS 1.6  by preda 
+ fnx to cs-mapping.com.ua
+
+28.03.2010 
+ from Moldova.
+
+The models and sound are in de_stbatpreda folders (!)
+
+ Fnx! 

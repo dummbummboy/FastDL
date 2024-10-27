@@ -1,0 +1,15 @@
+// overview description file for de_hell2.bsp
+
+global 
+{
+	ZOOM	1.92
+	ORIGIN	455.44 	130.56	224.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_hell2.bmp"
+	HEIGHT	224.00
+}
+Overview: Zoom 1.92, Map Origin (455.44, 130.56, 224.00), Z Min 673.00, Z Max -225.00, Rotated 0

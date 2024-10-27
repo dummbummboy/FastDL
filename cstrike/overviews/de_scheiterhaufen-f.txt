@@ -1,0 +1,13 @@
+
+global 
+{
+	ZOOM	1.93
+	ORIGIN	-41 -171 -1590
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_scheiterhaufen-f.bmp"
+	HEIGHT	-32
+}

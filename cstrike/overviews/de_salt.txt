@@ -1,0 +1,16 @@
+// overview description file for de_salt.bsp
+// de_salt was created by SuperJer
+// www.superjer.com
+
+global 
+{
+	ZOOM	1.61
+	ORIGIN	-176.00    23.25    220.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_salt.bmp"
+	HEIGHT	-376
+}

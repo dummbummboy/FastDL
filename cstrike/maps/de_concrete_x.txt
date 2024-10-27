@@ -1,0 +1,20 @@
+Concrete - Bombthething/Defuse/ Map
+[Build 0.4]
+by catche (klobby2002@hotmail.com)
+
+Original name de_concrete renamed 
+by 17b due to duplicate files.
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the things.
+Team members must defuse any bombs 
+that threaten the things.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the things.
+
+Other Notes: 
+There are two things.
+
+
+(Press FIRE/MOUSE1 to continue)

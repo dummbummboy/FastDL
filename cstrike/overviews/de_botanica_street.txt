@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.30
+	ORIGIN	-699.75 	511.75	-700
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_botanica_street.bmp"
+	HEIGHT	-700
+}

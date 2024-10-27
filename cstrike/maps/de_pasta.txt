@@ -1,0 +1,46 @@
+F a m i l y   P a s t a - Defusion
+by -Stratesiz- (stratesiz@cscentral.com)
+the creator of cs_futurcom (FutureCom).
+
+*TEXTURES by: -Stratesiz-, MikeZilla, JoeSmoe,
+ MattC, Telnets, Sheep and Q*E.
+*EXCLUSIVE SOUNDS by: Fortran
+*SPECIAL THANKS to Mazy, Chips, Sebastian and Mojo.
+--------------------------------------
+<<http://www.stratesiz.cscentral.com>>
+--------------------------------------
+Storyline:
+
+The FBI has been informed of a possible strike
+against the mafia family leader in New Jersey 
+by an anonymous call to a local police station. 
+Once the police had reason to believe the threat
+was real they evacuated Bernardigio Nuccio's family
+from his residence which was located above his
+Italian restaurant. The police know that the 
+restaurant itself has served as a meeting place 
+for Nuccio's organisation, consequently making
+it the perfect location for a revenge performed 
+by another mafia family.
+
+Counter-Terrorists:
+
+Your mission is to stop this unnecesary strike
+of terror at all cost. You have been informed
+of a possible bomb threat which is to be prevented 
+by any means neccesary. Secure the the entire 
+building. Do not let this operation turn into a
+big bowl of bloody pasta!
+
+Terrorists: 
+
+Your primary objective will be to eliminate 
+Bernardigio Nuccio and his family. The secondary
+goal is to "clean" out all evidence of your 
+presence by planting a bomb in one of the two 
+strategical bomb spots. These two locations will
+be the most efficient way to cause destruction
+to this filthy mafia family that betrayed us.
+------------------------
+(Press FIRE to continue)
+------------------------

@@ -1,0 +1,23 @@
+地图：小镇
+作者：老乡走喝两杯
+地图介绍：安宁的小镇，被突如其来的事件改变了，T的重要资料经过小镇时因某些原因被CT发现，T随后也察觉到了，准备用大量C4销毁这批资料，但是这会炸掉整个村子！CT得知情况的严重性后紧接着派出了特别行动队，准备一举拿下T，阻止他们的行动！随后CT特别行动组到达了现场，一场大战即将爆发......
+最大人数：10 VS 10
+备注：2013年1月19日凌晨1：18完成地图
+我的邮箱：conditionzero@vip.qq.com
+arcovitcher@gmail.com
+
+
+map：de_town_arco
+
+creator:Arcovitcher
+
+introduce：prevent terrorist bomb out the
+important material
+
+maxplayer:10 VS 10 (20)
+
+note：January 19, 2013 [1：18] map accomplished
+
+e_mail:arcovitcher@gmail.com
+
+conditionzero@vip.qq.com

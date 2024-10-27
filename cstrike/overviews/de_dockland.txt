@@ -1,0 +1,12 @@
+Citation :global
+{
+ZOOM 1.37
+ORIGIN -562.44 -1189.00 60.00
+ROTATED 1
+}
+
+layer
+{
+IMAGE "overviews/de_dockland.tga"
+HEIGHT -449.00
+}

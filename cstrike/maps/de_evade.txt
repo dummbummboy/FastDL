@@ -1,0 +1,21 @@
+DE_EVADE---[Bomb/Defuse]
+
+Map by DRakE [drake@cscentral.com]
+Map started by DaveJ [dv@btinternet.com]
+Textures by : DaveJ,Blazeer,VALVe,Zilla,Smoe,Mazy.
+ 
+Background: A top secret industrial facility storing
+and producing nuclear weaponry for sale on the black
+market has been uncovered by the SAS. These terrorists
+are also linked with the bombing of old ruins in Egypt.
+ 
+Terrorist: Avoid the Counter-Terrorists recovering the
+manufactured weaponry. Destroy the evidence linking you 
+to the Egyptian Attack. Detonate a bomb at either the
+gas pipeline or the cargo train carrying the weaponry.
+
+Counter-Terrorist: Eliminate the Terrorists at all
+costs. Defuse any bombs threatening either of the two
+bomb targets.   
+
+<<<Press FIRE to continue>>>

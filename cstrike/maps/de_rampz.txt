@@ -1,0 +1,18 @@
+de_rampz 
+
+a defuse/deathmatch map for Counter-Strike
+
+   created by :B: Rex    rex6363@shaw.ca
+
+the Terrorists dont like the big monolithic rampz 
+the townsfolk love so much.
+They want to stop the CT's from having fun,
+so they try to plant a bomb..
+
+
+Counter-Terrorists: Eliminate the Terrorists
+ before they blow up the rampz or the CT spawn
+
+Terrorists: Blow up the rampz or the CT spawn
+
+(Press FIRE to continue)

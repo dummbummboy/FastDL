@@ -1,0 +1,14 @@
+// overview description file for de_rampz.bsp
+
+global 
+{
+	ZOOM	2.14
+	ORIGIN	252 	-252	11
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_rampz.bmp"
+	HEIGHT	11
+}

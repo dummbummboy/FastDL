@@ -1,0 +1,14 @@
+// overview description file for de_NewYork.bsp by Spay
+
+global 
+{
+	ZOOM	1.54
+	ORIGIN	262.25 -48.44 -193
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_NewYork.bmp"
+	HEIGHT	-193
+}

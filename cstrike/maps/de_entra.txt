@@ -1,0 +1,10 @@
+Entra - Bomb/Defuse
+by KNE(jk) (johanjellstam@hotmail.se)
+
+Counter-Terrorists: Prevent the terrorists
+from blowing up any of the storage deposits.
+
+Terrorists: Get the c4bomb to one of the
+storage deposits and blow it up.
+
+(Press FIRE to continue)

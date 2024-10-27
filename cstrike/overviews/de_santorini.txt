@@ -1,0 +1,14 @@
+// overview description file for de_santorini.bsp
+
+global 
+{
+	ZOOM	2.05
+	ORIGIN	-193.06	114.05	320.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_santorini.bmp"
+	HEIGHT	-192
+}

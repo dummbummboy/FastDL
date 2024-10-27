@@ -1,0 +1,37 @@
+ESL_AUTUMN - Bomb/Defuse
+------------------
+
+mapping
+>> by Daniel 'Gimli'  (www.gimli-maps.de)
+
+textures/models   
+>> by the Valve Team
+>> by Gimli (www.gimli-maps.de)
+>> by Hessi (www.thomashess.net)
+>> refs by www.mayang.com & Relative
+
+sky / sounds
+>> by the Valve Team
+>> by Naomi Saskia King
+
+
+A big company found a huge deposit of oil,
+the black gold, right beneath a small
+Italian village. The unethical  company 
+wants to build a large reffinery, but the
+villagers refuse to move. Thus the company
+hired a group of terrorist to chase 
+away the villagers by destroying their 
+warehouses.
+
+Counter-Terrorists: Prevent the terrorists
+from destroying the villagers depots.
+
+Terrorists: Destroy one of the warehouses
+to scare and chase the villagers.
+
+Other Notes: There are 2 bomb sites in this 
+mission.
+
+
+(Press FIRE to continue)

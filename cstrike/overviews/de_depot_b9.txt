@@ -1,0 +1,14 @@
+// overview description file for de_depot_b9.bsp
+
+global 
+{
+	ZOOM	1.56
+	ORIGIN	-377.62	-60.28	-545
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_depot_b9.bmp"
+	HEIGHT	-545
+}

@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.27
+	ORIGIN	112.00 	-236.00	-3300.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_hogwarts.bmp"
+	HEIGHT	-3300.00
+}

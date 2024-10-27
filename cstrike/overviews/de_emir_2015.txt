@@ -1,0 +1,14 @@
+// overview description file for de_emir_2015.bsp
+
+global 
+{
+	ZOOM	2.16
+	ORIGIN	-191.50 -1049.00 183.50
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_emir_2015.bmp"
+	HEIGHT	-193.00
+}

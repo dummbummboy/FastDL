@@ -1,0 +1,19 @@
+// overview description file for de_villazamis_cz.bsp  
+
+
+global 
+
+{
+	
+ZOOM	3.48
+ORIGIN	1786.92	1260.08	-430.50
+ROTATED	1
+}
+
+
+layer
+
+{
+	IMAGE	"overviews/de_villazamis_cz.bmp"
+	HEIGHT	-957.00
+}

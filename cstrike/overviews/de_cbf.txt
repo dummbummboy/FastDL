@@ -1,0 +1,14 @@
+// overview description file for de_cbf.bsp
+
+global 
+{
+	ZOOM	2.10
+	ORIGIN	704	-1200	8.50
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_cbf.bmp"
+	HEIGHT	-170
+}

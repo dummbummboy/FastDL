@@ -1,0 +1,14 @@
+// overview description file for de_esl_autumn.bsp
+
+global 
+{
+	ZOOM	1.33
+	ORIGIN	288 	-416	160
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_esl_autumn.tga"
+	HEIGHT	-481
+}

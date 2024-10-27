@@ -1,0 +1,14 @@
+// overview description file for de_cocaine.bsp
+
+global 
+{
+	ZOOM	1.79
+	ORIGIN	-24 	-24	112
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_cocaine.bmp"
+	HEIGHT	-256
+}

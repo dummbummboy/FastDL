@@ -1,0 +1,9 @@
+DE_ROOF
+
+Idea & concept - Gogabyte & BUzer
+Mapping - BUzer
+Textures - BUzer, "Max Payne", original CS.
+Sky - BUzer (Terragen used)
+
+
+Map released specially for "Mappers Arena" competition on cs-mapping.com.ua and cs.miigaik.ru

@@ -1,0 +1,17 @@
+Alsace - Bomb/Defuse
+Beta 1
+by Fregira
+
+Terrorists are threatening the peace
+of a small Alsation town.
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the wine deliveries.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the wine 
+delivery  stashes. 
+
+Other Notes: There are 2 targets in the mission.

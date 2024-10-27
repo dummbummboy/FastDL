@@ -1,0 +1,17 @@
+// overview description file for de_potos.bsp
+
+global 
+{
+	ZOOM	1.34
+	ORIGIN	363.09 502.00 -279
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_potos.bmp"
+	HEIGHT	-279.00
+}
+
+
+// Overview: Zoom 1.34, Map Origin (363.09, 502.00, 428.00), Z Min 865.00, Z Max -279.00, Rotated 1

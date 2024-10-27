@@ -1,0 +1,12 @@
+de_depot_b9 - Defusion
+by Paul "pwL" Bastian
+
+Counter-Terrorists: Prevent the Terrorists
+from bombing the two depots.
+
+Terrorists: Destroy the one of the depots.
+
+Other Notes: There are 2 targets
+in this mission.
+
+(Press FIRE to continue)

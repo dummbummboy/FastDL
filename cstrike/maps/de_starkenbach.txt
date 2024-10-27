@@ -1,0 +1,24 @@
+===============  Jilemnice  ====== v36
+
+Author: MIXER
+Email : D.kosacek@sh.cvut.cz
+        Dkosacek@seznam.cz
+Web   : http://mixerus.kgb.cz
+ICQ   : 53 871 520
+
+Ukol  :Odstrelit oznacene nakladaky.
+
+Max 14 policajtu a 14 teroristu
+
+Mapa je PRIBLIZNE delana podle mesta
+Jilemnice. Je to samozrejme jen centrum
+s namestim, kostelem atd.
+Textury jsou z 99% nafoceny v Jilemnici,
+ale z duvodu velikosti mapy nejsou
+zdaleka vsechny takze se omlouvam tem,
+kterym asi bude vadit ze tam jejich barak
+neni spravne :)
+
+
+v Jilemnici 9.8.2001-27.9.2001
+(okolo 30 hodin prace)

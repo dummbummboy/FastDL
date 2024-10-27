@@ -1,0 +1,14 @@
+// overview description file for aim_ritual3.bsp
+
+global 
+{
+	ZOOM	3.24
+	ORIGIN	656 	-192	320
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_ritual3.bmp"
+	HEIGHT	-65
+}

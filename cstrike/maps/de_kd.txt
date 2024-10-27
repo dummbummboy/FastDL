@@ -1,0 +1,24 @@
+-----------------------------------------
+De_KD
+K.Dasha =)
+
+4 8 15 16 23 42 |execute|   =)
+
+1947 Roswell, OMG! here it comes...
+
+Map by FNFAL aka FaL_DemonoZa (c)
+Magnitogorsk, Russia!
+
+Visit:
+
+www.timezero.ru
+poligon.cs2.ru
+www.fnfal.ucoz.ru
+
+if ((Player->ShowSkin()==GSG9)&&(Player->ShowName()=="NS"))
+{
+Player->say_chat("aaargghhh!");
+}; =)
+
+-----------------------------------------
+(press fire button to continue)

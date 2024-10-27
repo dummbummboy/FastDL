@@ -1,0 +1,23 @@
+The Legato Ruins - Bomb/Defuse
+---------------------------
+Map by Mazy 
+(me@mazy.net)
+www.mazy.net
+
+Textures and skybox by Telnets 
+(telnets@telnets.org)
+www.telnets.org
+---------------------------
+Counter-Terrorists: Prevent Terrorists
+from bombing the ancient artifacts
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the ancient artifacts
+
+Other Notes: There are 2 artifact spots
+in this map, which are marked with
+red paint!
+
+(Press FIRE to continue)
+
+/me donces

@@ -1,0 +1,15 @@
+Bretagne - Bomb/Defuse
+by Atomfried (fredi@cs.pocnet.net)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the church or the crates.  
+Team members must defuse any 
+bombs that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the church or the crates.
+
+Other Notes: There are 2 targets 
+in this mission. 
+
+(Press FIRE to continue)

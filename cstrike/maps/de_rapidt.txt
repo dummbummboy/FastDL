@@ -1,0 +1,17 @@
+Rapidtransit - Bomb/Defuse
+By CayleGeorge (caylegeorge@yahoo.com)
+Concept Consultant: Jake Anderson
+Textures by CayleGeorge
+
+Counter-Terrorists: Prevent the 
+Terrorists from destroying the 
+Rapidtransit subway station.
+
+Terrorists: Carry the c4 to one of your 
+targets and destroy the subway.
+
+Note: There exist two bomb targets; 
+the Churro Ave. train, and the 
+tracks of the N. Portland train.
+
+(Press FIRE to Continue)

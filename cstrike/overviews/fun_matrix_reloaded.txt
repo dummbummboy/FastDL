@@ -1,0 +1,14 @@
+// overview description file for fun_matrix_reloaded.bmp  (by DCR Dirk Conrad - the uPd4t3d Data)
+
+global 
+{
+	ZOOM	0.72
+	ORIGIN	-20.00 20.00 416.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/fun_matrix_reloaded.bmp"
+	HEIGHT	-433.0
+}

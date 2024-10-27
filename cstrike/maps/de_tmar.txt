@@ -1,0 +1,11 @@
+de_tmar (final v1.0) - Bomb Defuse
+by Friedfisch (friedfisch@bigfoot.de)
+
+Counter-Terrorists: Back from sailing you get the message that some terrorists want to bomb your favorite fish restaurant and your surf store. Stop them !
+
+Terrorists: Those CTs always have fun, so lets bomb their surf store or at least their favorite fish restaurant.
+
+Other Notes:
+visit http://see.dive.de
+
+(Press FIRE to continue)

@@ -1,0 +1,15 @@
+
+// overview description file for de_volare.bsp
+
+global 
+{
+	ZOOM		1.27
+	ORIGIN		1669.28	-177.69	-250
+	ROTATED		0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_volare.bmp"
+	HEIGHT	-250
+}

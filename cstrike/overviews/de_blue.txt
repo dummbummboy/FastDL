@@ -1,0 +1,14 @@
+// overview description file for de_blue.bsp by [aAa]Coucouoeuf - www.Ccf-mapping.info
+
+global 
+{
+	ZOOM 	1.31	
+	ORIGIN	1264	-320.00	208
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_blue.bmp"
+	HEIGHT	-193
+}

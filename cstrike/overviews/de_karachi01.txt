@@ -1,0 +1,14 @@
+// overview description file for de_karachi01.bsp
+
+global 
+{
+	ZOOM	1.62
+	ORIGIN	8.00	-720.00	  -112.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_karachi01.tga"
+	HEIGHT	-112.00
+}

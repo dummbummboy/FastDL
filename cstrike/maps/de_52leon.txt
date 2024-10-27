@@ -1,0 +1,24 @@
+de_Leon  aka de_52hours53 - Defusion
+by Warbeast (warbeast@t-online.de)
+sky by warbeast & bedlam
+Texture by Madness
+This map has won the "Just 52 hours"-Fast Mapping Contest
+of www.counter-strike.de
+
+Setting:
+The government tries to earn some money by selling some weapons to the ETA.
+Another terrorist group attempts to prevent this weapon deal.
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the rockets.
+Team members must defuse any bombs 
+that threaten the targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the rockets. 
+
+
+Other Notes: There are 2 bomb sites in this 
+mission. 
+
+(Press FIRE to continue)

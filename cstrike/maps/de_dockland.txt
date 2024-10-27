@@ -1,0 +1,12 @@
+de_dockland - Bomb/Defuse by WOLg0r 05/2007
+____________________________________
+Counter-Terrorists: Prevent Terrorists
+from bombing targeted areas. Team
+members must defuse any bombs that
+threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the targets. 
+
+
+[Press FIRE to continue]
